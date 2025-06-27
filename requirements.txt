@@ -3,6 +3,7 @@ transformers==4.41.2
 sentence-transformers==2.6.1
 torch==2.5.0
 PyPDF2==3.0.1
-# faiss-cpu==1.7.4  # Commented to avoid OS-level build failures
 pdfminer.six==20221105
 scikit-learn==1.4.2
+numpy==1.26.4
+scipy==1.13.1
